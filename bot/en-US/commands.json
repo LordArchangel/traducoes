@@ -7,13 +7,13 @@
             "embed": {
                 "setAuthor": "Backup of your bot.",
                 "setDescription": "Click here",
-                "setFooter": "Link expire in 1 day"
+                "setFooter": "The link expire in 1 day"
             },
             "dmFechado": "Your DM is locked, release to be able to use the command."
         },
 
         "bots": {
-            "semreg": "No bank registration.",
+            "semreg": "No registration in the database.",
             "semBots": "This member has not hosted any bots.",
             "dmblock": "An error occurred, make sure your direct messages are not blocked on the server.",
             "embed": {
@@ -21,18 +21,18 @@
                 "lang": "Language",
                 "time": "Added to",
                 "ficheiro": "Main file",
-                "ram": " RAM allocated",
+                "ram": " Allocated RAM",
                 "mods": "Moderators",
                 "desliga": "Turns off in",
-                "setFooter": "Pages"
+                "setFooter": "Page"
             }
         },
 
         "cleardm": {
-            "erro": "An error occurred while opening your direct messages.",
+            "erro": "An error occurred while checking your direct messages.",
             "semmsg": "There are no message logs sent by the bot on your DM.",
-            "deletingMsg": "Eliminando {{nMsgs}} mensagens em {{minutos}} minuto(s) e {{segundos}} segundos.",
-            "msgFinal": "The last {{size}} messages sent by the bot in your DM have been deleted.",
+            "deletingMsg": "Deleting {{nMsgs}} messages in {{minutos}} minute(s) and {{segundos}} second(s).",
+            "msgFinal": "The last {{size}} messages sent by the bot on your DM have been deleted.",
             "errofinal": "An error occurred while trying to delete the messages."
         },
 
